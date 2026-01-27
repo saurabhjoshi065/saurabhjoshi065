@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jayant Joshi</h1>
-<h3 align="center">Graduate Software Engineer | MSc Advanced Computer Science | Backend, Data & ML Enthusiast</h3>
+<h3 align="center">
+Graduate Software Engineer | MSc Advanced Computer Science  
+<br/>Backend • Data • Machine Learning • Cloud
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhjoshi065&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhjoshi065" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhjoshi065" alt="saurabhjoshi065" /></a> </p>
 
-- 🌱 I’m currently learning **Apache Kafka, Blockchain, System Design, Cloud-Native Backend Development, Ai**
+- 🌱 I’m currently learning **Apache Kafka, Blockchain, System Design, Cloud-Native Backend Development, and AI**
 
-- 👯 I’m looking to collaborate on **Backend systems, data engineering & machine learning projects.**
+- 👯 I’m looking to collaborate on **backend systems, real-time data platforms, and machine learning projects**
 
-- 🤝 I’m looking for help with **Building real-time, production-grade data pipelines & system design**
+- 🤝 I’m looking for help with **designing scalable systems and building production-grade data pipelines**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saurabhjoshi065/](https://github.com/saurabhjoshi065/)
+- 👨‍💻 All of my projects are available at **https://github.com/saurabhjoshi065**
 
-- 📝 I regularly write articles on [Coming soon — engineering notes & project breakdowns](Coming soon — engineering notes & project breakdowns)
-
-- 💬 Ask me about **Java, Python, Backend Development, Machine Learning, Data Pipelines**
+- 💬 Ask me about **Java, Python, backend engineering, machine learning, data pipelines, and system design**
 
 - 📫 How to reach me **saurabhjoshi065@gmail.com**
 
-- ⚡ Fun fact **I’m a marathon runner, state-level rope skipper, cricketer — and I love solving complex problems.**
+- ⚡ Fun fact: **I treat coding like endurance sports — consistency, structure, and constant improvement.  
+  (Also a marathon runner, state-level rope skipper, and cricketer.)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
