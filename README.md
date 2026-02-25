@@ -1,7 +1,7 @@
 # Saurabh Jayant Joshi
 
 <h3 align="center">
-  Full Stack Junior Engineer @ Blockchain-Ads | MSc Advanced Computer Science @ University of Sheffield (Distinction)
+  MSc Advanced Computer Science @ University of Sheffield (Distinction) | Ex-Full Stack Junior Engineer @ Blockchain-Ads
 </h3>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ### 🏛️ Professional Experience
 
-*   **Full Stack Junior Engineer | Blockchain-Ads**: 
-    *   Architecting scalable Web3 advertising platforms using **React.js, Node.js, and Firebase**.
+*   **Ex-Full Stack Junior Engineer | Blockchain-Ads**: 
+    *   Architected scalable Web3 advertising platforms using **React.js, Node.js, and Firebase**.
     *   Engineered **22+ Firebase Cloud Functions** for campaign automation and real-time wallet synchronization pipelines.
-    *   Designing complex integrations between **Firestore, MySQL, and MeiliSearch** for high-performance data retrieval.
+    *   Designed complex integrations between **Firestore, MySQL, and MeiliSearch** for high-performance data retrieval.
 *   **Software Developer | EXFO**: 
     *   Built **C#/.NET** data acquisition modules that reduced testing workflows by **25%**.
     *   Integrated **Microsoft Application Insights** for telemetry-driven product decisions.
