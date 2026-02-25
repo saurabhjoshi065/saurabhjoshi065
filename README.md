@@ -1,11 +1,11 @@
 # Saurabh Jayant Joshi
 
 <h3 align="center">
-  MSc Advanced Computer Science @ University of Sheffield | Ex-Software Developer @ EXFO
+  MSc Advanced Computer Science @ University of Sheffield | Ex-Software Developer @ EXFO & Blockchain-Ads Labs
 </h3>
 
 <p align="center">
-  <b>Backend Engineering • Distributed Systems • Machine Learning • Cloud Infrastructure</b>
+  <b>Backend Engineering • Distributed Systems • Machine Learning • Cloud Infrastructure • Blockchain</b>
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ### 🏛️ Professional & Academic Background
 
-*   **Graduate Scholar (MSc Advanced CS)**: Currently specializing in **Advanced Algorithms & Data Structures (ADS)** and scalable AI at the **University of Sheffield**.
-*   **Blockchain Research**: Exploring decentralized systems, smart contracts, and blockchain-native backend development.
-*   **Industry Experience (EXFO)**: Previously a **Software Developer** where I optimized mission-critical .NET/C# telemetry systems and enhanced cloud-native data acquisition pipelines.
-*   **Core Expertise**: Designing high-concurrency architectures, real-time data streaming (Kafka), and automated LLM tuning.
+*   **Graduate Scholar (MSc Advanced CS)**: Specializing in **Advanced Algorithms & Data Structures (ADS)** and High-Performance Computing at the **University of Sheffield**.
+*   **Blockchain-Ads Labs**: Engineering Web3 advertising solutions and AI-driven targeting engines (NEXUS AI). Focused on on-chain data analysis and decentralized fraud prevention.
+*   **Industry Experience (EXFO)**: Former **Software Developer** optimized enterprise telemetry systems using .NET/C# and cloud-native data acquisition pipelines.
+*   **Core Expertise**: High-concurrency architectures, real-time data streaming (Kafka), smart contract interaction, and automated LLM tuning.
 
 ---
 
@@ -27,10 +27,18 @@
 
 | Project | Tech Stack | Focus |
 | :--- | :--- | :--- |
-| **[Schema-Guardian](https://github.com/saurabhjoshi065/Schema-Guardian-LLM-Tuning-)** | `Java`, `LLM Tuning` | Automated schema validation and domain-specific LLM optimization. |
-| **[RAG PDF Engine](https://github.com/saurabhjoshi065/rag-pdf-chatbot)** | `Node.js`, `VectorDB` | Implementing Retrieval-Augmented Generation for document intelligence. |
+| **[Schema-Guardian](https://github.com/saurabhjoshi065/Schema-Guardian-LLM-Tuning-)** | `Java`, `LLM Tuning` | Automated schema validation and domain-specific LLM optimization for data integrity. |
+| **[RAG PDF Engine](https://github.com/saurabhjoshi065/rag-pdf-chatbot)** | `Node.js`, `VectorDB` | Implementing Retrieval-Augmented Generation for semantic search over private document stores. |
 | **[Project-Aether](https://github.com/saurabhjoshi065/Project-Aether-SRE)** | `Python`, `SRE` | Reliability engineering and performance monitoring for containerized systems. |
 | **[Atomic-Relay](https://github.com/saurabhjoshi065/atomic-relay-)** | `Java`, `Concurrency` | Low-latency telemetry processing for high-throughput environments. |
+
+---
+
+### 📜 Certifications & Achievements
+
+*   **HackerRank Certified**: Problem Solving (Basic) & Advanced Python/Java proficiency.
+*   **LeetCode**: Active problem solver focusing on Advanced Algorithms and Data Structures.
+*   **Professional Shark**: GitHub "Pull Shark" achievement for consistent high-impact contributions.
 
 ---
 
