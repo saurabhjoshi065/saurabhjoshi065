@@ -16,29 +16,73 @@
 
 ### 🏛️ Professional & Academic Background
 
-*   **Graduate Scholar (MSc Advanced CS)**: Currently conducting research and advanced coursework at the **University of Sheffield**, specializing in scalable architectures and AI-driven systems.
-*   **Industry Experience (EXFO)**: Previously a **Software Developer** contributing to enterprise-grade telemetry and data acquisition systems. Optimized mission-critical .NET applications and cloud-native monitoring pipelines.
-*   **Core Expertise**: Designing robust, high-concurrency backend services, implementing distributed data pipelines (Kafka/RabbitMQ), and fine-tuning LLMs for specialized domain tasks.
+*   **Graduate Scholar (MSc Advanced CS)**: Currently specializing in **Advanced Algorithms & Data Structures (ADS)** and scalable AI at the **University of Sheffield**.
+*   **Blockchain Research**: Exploring decentralized systems, smart contracts, and blockchain-native backend development.
+*   **Industry Experience (EXFO)**: Previously a **Software Developer** where I optimized mission-critical .NET/C# telemetry systems and enhanced cloud-native data acquisition pipelines.
+*   **Core Expertise**: Designing high-concurrency architectures, real-time data streaming (Kafka), and automated LLM tuning.
 
 ---
 
 ### 🚀 Technical Spotlight
 
-| Project | Tech Stack | Impact / Focus |
+| Project | Tech Stack | Focus |
 | :--- | :--- | :--- |
-| **[Schema-Guardian](https://github.com/saurabhjoshi065/Schema-Guardian-LLM-Tuning-)** | `Java`, `LLM Tuning` | Automated schema validation and domain-specific LLM optimization for data integrity. |
-| **[RAG PDF Engine](https://github.com/saurabhjoshi065/rag-pdf-chatbot)** | `Node.js`, `VectorDB` | Implementing Retrieval-Augmented Generation to enable semantic search over private document stores. |
-| **[Project-Aether](https://github.com/saurabhjoshi065/Project-Aether-SRE)** | `Python`, `Prometheus` | SRE-focused monitoring and reliability suite for containerized environments. |
-| **[Atomic-Relay](https://github.com/saurabhjoshi065/atomic-relay-)** | `Java`, `Concurrency` | High-throughput, low-latency relay system designed for real-time telemetry processing. |
+| **[Schema-Guardian](https://github.com/saurabhjoshi065/Schema-Guardian-LLM-Tuning-)** | `Java`, `LLM Tuning` | Automated schema validation and domain-specific LLM optimization. |
+| **[RAG PDF Engine](https://github.com/saurabhjoshi065/rag-pdf-chatbot)** | `Node.js`, `VectorDB` | Implementing Retrieval-Augmented Generation for document intelligence. |
+| **[Project-Aether](https://github.com/saurabhjoshi065/Project-Aether-SRE)** | `Python`, `SRE` | Reliability engineering and performance monitoring for containerized systems. |
+| **[Atomic-Relay](https://github.com/saurabhjoshi065/atomic-relay-)** | `Java`, `Concurrency` | Low-latency telemetry processing for high-throughput environments. |
 
 ---
 
-### 🛠️ Strategic Tech Stack
+### 🛠️ Comprehensive Tech Stack
 
-*   **Languages**: `Java (EE/Spring Boot)`, `Python (Advanced)`, `.NET C#`, `TypeScript`, `C++`
-*   **Data & Messaging**: `PostgreSQL`, `MongoDB`, `Apache Kafka`, `Redis`, `ElasticSearch`
-*   **Cloud & DevOps**: `AWS`, `Azure`, `Kubernetes`, `Docker`, `Terraform`, `CI/CD (Jenkins/GitHub Actions)`
-*   **Machine Learning**: `PyTorch`, `TensorFlow`, `Scikit-learn`, `Vector Databases (FAISS/Chroma)`
+#### **Languages & Frameworks**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</p>
+
+#### **Data & Infrastructure**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</p>
+
+#### **Machine Learning & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
+</p>
 
 ---
 
