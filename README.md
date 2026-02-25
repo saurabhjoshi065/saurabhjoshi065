@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <b>Distributed Systems • Web3 Infrastructure • Full-Stack Engineering • Machine Learning</b>
+  <b>Distributed Systems • Web3 Infrastructure • Full-Stack Engineering • AI Agents & MCP</b>
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
     *   Architected scalable Web3 advertising platforms using **React.js, Node.js, and Firebase**.
     *   Engineered **22+ Firebase Cloud Functions** for campaign automation and real-time wallet synchronization pipelines.
     *   Designed complex integrations between **Firestore, MySQL, and MeiliSearch** for high-performance data retrieval.
+    *   Developed **custom AI Agents** and **MCP (Model Context Protocol) servers** for automated campaign management and data extraction.
 *   **Software Developer | EXFO**: 
     *   Built **C#/.NET** data acquisition modules that reduced testing workflows by **25%**.
     *   Integrated **Microsoft Application Insights** for telemetry-driven product decisions.
