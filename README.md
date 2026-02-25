@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <b>Distributed Systems • Web3 Infrastructure • Full-Stack Engineering • AI Agents & MCP</b>
+  <b>Distributed Systems • Web3 Infrastructure • Full-Stack Engineering • AI Agents & MCP • CRM & Marketing Automation</b>
 </p>
 
 <p align="center">
