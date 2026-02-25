@@ -92,8 +92,13 @@
 ### 📈 Engineering Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhjoshi065&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi065&show_icons=true&locale=en&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi065&show_icons=true&theme=radical&rank_icon=github" alt="Saurabh's GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhjoshi065&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjoshi065&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
