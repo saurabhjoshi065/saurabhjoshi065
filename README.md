@@ -1,4 +1,4 @@
-# Saurabh Jayant Joshi
+<h1 align="center">Saurabh Jayant Joshi</h1>
 
 <h3 align="center">
   MSc Advanced Computer Science @ University of Sheffield (Distinction) | Ex-Full Stack Junior Engineer @ Blockchain-Ads
@@ -90,6 +90,14 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">CRM & Marketing Automation:</h3>
+<p align="left">
+  <a href="https://www.hubspot.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="hubspot" width="40" height="40"/> </a>
+  <a href="https://www.salesforce.com/products/marketing-cloud/overview/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="sfmc" width="40" height="40"/> </a>
+  <a href="https://customer.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/customerio/customerio-icon.svg" alt="customer.io" width="40" height="40"/> </a>
+  <a href="https://mailchimp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="mailchimp" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Machine Learning & Tools:</h3>
